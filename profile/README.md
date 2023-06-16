@@ -1,5 +1,6 @@
 ## Welcome to Hilo Software 👋
 
+Open source software for all
 <!--
 
 **Here are some ideas to get you started:**
