@@ -1,7 +1,7 @@
 ## Welcome to Hilo Software 👋
 
-This area contains software written and distributed by Hilo Software, LLC
-Software in this area is distributed under the MIT license
+- This area contains software written and distributed by Hilo Software, LLC
+- Software in this area is distributed under the MIT license
 <!--
 
 **Here are some ideas to get you started:**
